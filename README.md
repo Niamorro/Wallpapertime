@@ -1,6 +1,6 @@
 # WallpaperTime
 
-![template](https://github.com/Niamorro/Wallpapertime/assets/123011549/bc550cbb-7b64-4359-a18c-e28329716cdc)
+![template](https://github.com/Niamorro/Wallpapertime/assets/123011549/f4648a47-1fdb-4abb-9113-dae43358a46e)
 
 ![GitHub](https://img.shields.io/github/license/Niamorro/Wallpapertime)
 
@@ -41,7 +41,7 @@ Download installer on release page
 
 ## Programm introducing
 
-<img width="641" alt="intro" src="https://github.com/Niamorro/Wallpapertime/assets/123011549/a2289f95-aba5-41d5-ba6d-5ba52bee6dab">
+<img width="641" alt="intro" src="https://github.com/Niamorro/Wallpapertime/assets/123011549/fc5d7169-4c81-470a-bf0e-5299264a800d">
 
 ## License
 
