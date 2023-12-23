@@ -1,7 +1,6 @@
 # WallpaperTime
 
-![template](https://github.com/Niamorro/Wallpapertime/assets/123011549/89d2f938-d13d-4853-a2df-204e019cb75c)
-
+![template](https://github.com/Niamorro/Wallpapertime/assets/123011549/bc550cbb-7b64-4359-a18c-e28329716cdc)
 
 ![GitHub](https://img.shields.io/github/license/Niamorro/Wallpapertime)
 
@@ -40,19 +39,9 @@ Download installer on release page
 5. **Start Minimized:**
    - Toggle the "Start Minimized" checkbox to determine whether the application starts minimized or not.
 
-6. **Minimize to Tray:**
-   - Click the "Minimize" button to minimize the application to the system tray.
-
-7. **Exiting the Application:**
-   - To close the application, simply click the close button on the window.
-
 ## Programm introducing
 
 <img width="641" alt="intro" src="https://github.com/Niamorro/Wallpapertime/assets/123011549/a2289f95-aba5-41d5-ba6d-5ba52bee6dab">
-
-## Credits
-
-This application was created by [Niamorro](https://github.com/Niamorro).
 
 ## License
 
