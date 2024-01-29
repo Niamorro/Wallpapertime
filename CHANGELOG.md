@@ -1,4 +1,4 @@
-## [v1.0] - 2023-12-13
+## [v1.0] - 2024-1-30
 
 ### Added
 - Initial release of WallpaperTimeApp.
