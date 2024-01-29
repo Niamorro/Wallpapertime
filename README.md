@@ -42,7 +42,8 @@ Download installer on release page
 
 ## Programm introducing
 
-<img width="639" alt="WTdemo" src="https://github.com/Niamorro/Wallpapertime/assets/123011549/e379d81b-81fb-4e9c-8f83-0bc42925af61">
+<img width="637" alt="WTdemo" src="https://github.com/Niamorro/Wallpapertime/assets/123011549/53341110-46d1-4d30-9c5d-bcb0f21fd2b3">
+
 
 ## License
 
