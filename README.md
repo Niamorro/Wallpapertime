@@ -42,7 +42,7 @@ Download installer on release page
 
 ## Programm introducing
 
-<img width="639" alt="demo" src="https://github.com/Niamorro/Wallpapertime/assets/123011549/df75b2f1-e05d-46cc-90a0-74339c95ca50">
+<img width="643" alt="demo" src="https://github.com/Niamorro/Wallpapertime/assets/123011549/c7f61fd1-09da-49e1-8432-766cb6fdbf23">
 
 ## License
 
