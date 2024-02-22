@@ -5,7 +5,7 @@
 
 ![GitHub](https://img.shields.io/github/license/Niamorro/Wallpapertime)
 
-WallpaperTime is a desktop application that allows you to automatically change your wallpaper based on specified intervals. You can set different wallpapers for different time periods throughout the day. This application is built using PyQt5 and provides a user-friendly graphical interface to manage your wallpaper intervals.
+WallpaperTime is a desktop application that allows you to automatically change your wallpaper based on specified intervals. You can set different wallpapers for different time periods throughout the day. This application is built using PySide6 and provides a user-friendly graphical interface to manage your wallpaper intervals.
 
 ## Features
 
