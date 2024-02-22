@@ -14,9 +14,16 @@ WallpaperTime is a desktop application that allows you to automatically change y
 - Toggle autostart and start minimized options.
 - Minimize the application to the system tray.
 
-## Installation
+1. **Installation**:
+   -Download Windows Setup or follow instruction
+   - Ensure you have Python 3 installed on your system.
+   - Install the required dependencies using `pip install -r requirements.txt`.
 
-Download installer on release page
+3. **Run the Program**:
+   - Execute the `wallpapertime.py` script to launch the application.
+
+4. **Compile**:
+  -nuitka compile command `nuitka --standalone --onefile --windows-disable-console --mingw64 --show-memory --show-progress --follow-imports --enable-plugin=pyside6 wallpapertime.py`
 
 ## How to Use
 
@@ -42,7 +49,7 @@ Download installer on release page
 
 ## Programm introducing
 
-<img width="643" alt="demo" src="https://github.com/Niamorro/Wallpapertime/assets/123011549/c7f61fd1-09da-49e1-8432-766cb6fdbf23">
+![изображение](https://github.com/Niamorro/Wallpapertime/assets/123011549/9a3a3275-333f-4bfa-a7fe-81700f895655)
 
 ## License
 
