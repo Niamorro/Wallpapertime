@@ -1,0 +1,3 @@
+PySide6==6.2.2
+qdarkstyle==3.0.2
+screeninfo==0.6.7
