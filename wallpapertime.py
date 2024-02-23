@@ -26,7 +26,7 @@ from PySide6.QtWidgets import (
     QMessageBox,
 )
 
-from qdarkstyle import load_stylesheet_pyside6
+import qdarktheme
 from screeninfo import get_monitors
 
 class CheckboxUpdateThread(QThread):
@@ -159,7 +159,7 @@ class WallpaperTimeApp(QMainWindow):
         self.timer.start(1000)
 
         # Set the style sheet
-        self.setStyleSheet(load_stylesheet_pyside6())
+        qdarktheme.setup_theme("auto")
         
         self.show()
 
@@ -420,7 +420,7 @@ class WallpaperTimeApp(QMainWindow):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-
+    qdarktheme.setup_theme()
     os.chdir(os.path.dirname(sys.argv[0]))
     if not os.path.exists("icon.png"):
         print(
