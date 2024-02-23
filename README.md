@@ -15,7 +15,7 @@ WallpaperTime is a desktop application that allows you to automatically change y
 - Minimize the application to the system tray.
 
 1. **Installation**:
-   -Download Windows Setup or follow instruction
+   - Download Windows Setup or follow instruction
    - Ensure you have Python 3 installed on your system.
    - Install the required dependencies using `pip install -r requirements.txt`.
 
@@ -49,7 +49,7 @@ WallpaperTime is a desktop application that allows you to automatically change y
 
 ## Programm introducing
 
-![изображение](https://github.com/Niamorro/Wallpapertime/assets/123011549/9a3a3275-333f-4bfa-a7fe-81700f895655)
+![изображение](https://github.com/Niamorro/Wallpapertime/assets/123011549/c9573fd3-467b-49d4-9bde-6b9af47cf6aa)
 
 ## License
 
